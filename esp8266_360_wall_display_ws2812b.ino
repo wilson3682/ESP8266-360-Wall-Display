@@ -6,6 +6,7 @@
 
 #define LED_PIN     4
 #define CLOCK_PIN   5
+//#define LED_TYPE    APA102
 #define LED_TYPE    WS2812B
 #define COLOR_ORDER BGR
 #define MILLI_AMPERE      15000    // IMPORTANT: set here the max milli-Amps of your power supply 5V 2A = 2000
